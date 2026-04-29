@@ -1,4 +1,4 @@
-// Student: Egecan Akincioglu | ID: 132492
+// Student: Egecan Akincioglu | ID: 132492.
 import { useState, useEffect, useCallback, useMemo } from "react";
 import UserCard from "./components/UserCard";
 import RegisterUser from "./components/RegisterUser";
